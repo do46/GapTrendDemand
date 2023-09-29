@@ -1,12 +1,57 @@
-analyzingxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaand i know that i immediately go to rem and stay there of the timexaxa
-ive just started monitoring my sleeping heart rate and im finding that it is mostly always higher than my resting heart rate my resting heart rate during the day hovers around bpm im sleeping really poorly at the moment and have found that my heart rate seems to increase as im falling asleep but then gets lower towards the morning i cant find anything that says if my sleeping heart rate should be lower than my resting heart rate i just want to find out if this is unusual i find that i get really hot in my sleep too when im normally always cold while awakexashadowstarwhat you are seeing is normalxain the fitbit premium sleep analysis they state
-its normal for your sleeping heart rate to be below your resting heart rate for much of the night in my case my rhr is
-and last night my sleeping hr was below that for of the night
-mainly in the later rds of the nightxa it peaks at the start at around bpm as i settle down and then near the end it gets down to genetics for me other times it has got down to xai find that that the extra blanket causes me to have disturbed sleep and raises my rhr for that day by a couple of points then during the day it drops back againxa in melbourne we can have four seasons in one dayxashadowstarxawroteive just started monitoring my sleeping heart rate and im finding that it is mostly always higher than my resting heart rate my resting heart rate during the day hovers around bpm im sleeping really poorly at the moment and have found that my heart rate seems to increase as im falling asleep but then gets lower towards the morning i cant find anything that says if my sleeping heart rate should be lower than my resting heart rate i just want to find out if this is unusual i find that i get really hot in my sleep too when im normally always cold while awakexaxacolinvictoria
-australiaionic os
-
-android app
-premium
-phone sony xperia xa
-android im curious what others notice as well note the original question concern was sleeping heart rate thats higher than resting heart ratexaxamy wife sees similar where her sleeping heart rate is higher than resting heart rate for a majority of the night
-usually of the night her sleeping heart rate is higher than resting heart rate shes restless like as wellxaxathis is different than me where my sleeping heart rate is lower than resting heart rate over of the night usually only above resting heart ratexathought it was perhaps her inspire hr
+but based on what my fitbit reports and how i feel there seems to be a decent pattern it is a tool and not a major medical device i do think the trends over time can be helpful to show a medical professional as it is some easy data to have when asked heyi thought my fitbit charge hr was supposed to track my lowest heart rate leveli woke up last night a few times and i saw far lesser readingsi have been reading about how the rest heart rate might be higher asleep than awake yet i did see numbers like
+but the fitbit charge hr logged this time a its baffling to see this
+but im just wondering if the system is designed to take readings in a certain time answered go to the best answer wavydavey has some solid advice and the pinned topic at the top is a good place to check sleep certainly helps with helping to keep emotions in check and it becomes a catch when you get behind on sleep but then cant sleep because your emotionsthoughts wont chill aside from meditation i find just getting outdoors and spending some quiet time in the sun does wonders for helping calm emotions at least for me limited screen time before bed and cutting caffeine and sugar out of your diet a few hours before bed also help a lot good luck i agree that sleep tracking could use a little more sophistication and hope that fitbit can choose to improve upon it but im not sure its as simple as adding up time per day has anyone noticed all of the sleep stats the right column of the log for a single day arent satisfactorily accurate _dt has one example my example my current sleep record shows times awakened however
+if i hover over apr on times awoken over the past days i only see times that suggests to me sleep tracking is based on a midnight to midnight schedule therefore
+in addition to being able to sum a days worth of sleep
+tracking needs to be aware of what you consider the start to your day lets not let mechanesthesias overblown not my word frustration detract from the fact that there is something wrong and it is worth making an effort to improve it what would be your requirements to make the sleep trackerlog more accurate yes thanks
+no not disputing accuracy at all i understand how the fitbitapp relates the percentages
+but it seems more useful important to knowthe percentage of deep sleep achieved versus how much deep sleep per nightis normal perhaps more so than percentage of deep sleep vs light rem awake periods that are currently recordedi know people who have been inconsolable in blogposts because their fitbitsaid they only got a lousy hrs deep sleep i should be so lucky notrealising that was actually good rdymn
+thxgood to know bedtime snack others too and other optionsgood luck in your fight against cancer and getting better sleep and health to clarify
+my other trackers do not attempt to distinguish deep sleep from rem sleep
+so the includes both phases according to your figure
+that benchmark is actually not fitbit puts my deep sleep plus rem at of the total
+which is absurd given the facts in my first post i maintain that the fitbit algorithm isnt accurate
+sorry can you give some details how fitbit uses hr to calculate sleep phases are fluctuations not more impactful to an algorithm for lower heart rates
+than for higher heart rates i have a one and a flex it doesnt automatically register at all melwitty thanks for your reply ive seen and it seems that there was inconvenience at the moment you called in this case id recommend reaching out to our support team one more time if you experience any difficulty over the phone
+note that you can contact them through live chat click here to get connected please make sure to inform about the troubleshooting steps youve followed
+this way they can assist you from there see you soon wilson m community moderator
+fitbit also is there any way to know if i am in deep sleep back in june my doc prescribed prozac after a few days on prozac i started sleeping about hoursday
+and it was really hard to drag myself out of bed at the same time my fitbit hr sleep scores crashed before taking the prozac
+my sleep score was right around to
+and sleep duration to hours suddenly i was getting no sleep analysis at all
+or very poor results ive been off prozac for days now trying out cymbalta two nights ago the hr gave me a really good sleep score decent results last night has anyone had a similar experience of antidepressants destroying their sleep analysis i am not sure to get it you had good nights where you slept hours
+and then a completely sleepless night where you did not any sleep at all thanks
+i appreciate the response yea
+for me its shown the sleep score every night that ive worn it to bed note that i stopped manually logging
+i just go to bed while wearing it
+it logs automatically next morning there is a sleep score hopefully you can get your scores too sweet dreams there has been discussion in some other threads that the accuracy of the sleep stage tracking is very much questionable you are correct
+there is no explanation for why changing the wake up time would significantly change the time spent in specific stages hours earlier feel this feature advertised by fitbit is not really ready for prime timeit definitely seems that way sleep tracking was excellent on my original charge hr it would record my sleep every night
+every day time nap i take i loved it and that was the only reason a bought hr once the old one felt apart after years of continuous wear now the new hr either logs one
+two hours or does not log my sleep at all i feel cheated by fitbit i currently have a fitbit flex
+but im considering getting a charge hr now that im a fitbit superuser i love tracking everythingespecially sleep there is one point that im not clear on with charge hr and sleep if the charge hr tracks your heart rate continuously
+shouldnt it use both your movement and your heart rate data to track sleep
+making it more accurate than a flex
+that just uses movement yet
+none of the literature available on the charge hr seems to confirm or deny this fact if i knew for sure that it did
+i would be at the store today add this to your literature
+fitbit so my spo graph spikes every now and again during my sleep
+maybe nights a week at random times only once a night or maybe twiceim worried this means i may have sleep apnea does anyones graph spike like this for a reason thats not sleep apneacould it be too loose pics attached of normal and spiked readings on various nights any advice or similar experiences would be really appreciated thanks so
+ive had my fitbit for weeks or so now
+the first few nights sleep it tracked i had slept hours
+but since then ive been sleeping hours at the most but in bed for around hoursim thinking this is the source of why i feel tired in the mornings instead of my believing ive slept for hoursdoes anyone have any suggestions how i can sleep better i didnt know i was a restless person at all
+i thought i slept quite still as i dont wake myself up in these restless momentsor can i trust my fitbit to track accuratly of how i sleephelp is appreiciated answered go to the best answer a few weeks ago
+i replaced my charge hr with a charge for the simple reason that it couldnt track when i went to bed i have chronic fatigue syndrome so have sleep set to sensitive because the sleep time better matches how rested i feelthis has only been happening for the past or months or so
+but the tracker both of them often logs me as going to bed hours or hours later than i did
+and its not unusual for it to claim that i never went to bed at all as if i left the tracker on my nightstand to be clear
+i am not talking about excessive restless or awake periods the nights sleep chart doesnt even start until ive been in bed for several hours
+so in not sure its a matter of sensitive vs regular sleep settingive played with the sleep log start time
+but that has had no effect i sync to an iphone and its software version makes no difference
+nor does the fitbit app version i restart my fitbit every few days an old computer habitanyone have ideas on why my tracker doesnt know that ive gone to bed thanks so
+i deleted the sleep record from last night i tried to create a new record with the correct times and heres a picture of what happens there are no sleep records for this time i deleted the one i could not edit thad a very simple way to look at it is deep sleep is restorative to the body
+while rem is more integration for the mind with some practice
+one can gauge internally between the two not enough deep sleep feels sluggish in the body physical performance can suffer not enough rem may show up as unclear thinking or memory trouble at some point
+the two are difficult to distinguish with enough deprivation of deep sleep
+the mind will have trouble
+and with too little rem
+the body may not feel that great either so theres lots of overlap but if you can get a sense of how each type of sleep affects your body and mind
+it can be really valuable information work outeat sleeprepeatdave california luckly

@@ -6,10 +6,14 @@
   </title>
   <!-- Google Tag Manager -->
   <script>
-   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
 })(window,document,'script','dataLayer','GTM-5MRTHHT');
   </script>
   <!-- End Google Tag Manager -->
@@ -7806,8 +7810,10 @@ display:none
   <a aria-hidden="true" class="lia-link-navigation lia-value-survey-link lia-panel-dialog-trigger lia-panel-dialog-trigger-event-click lia-js-data-dialogKey-1707501672" href="#" id="valueSurveyLauncher" tabindex="-1">
   </a>
   <style>
-   #lia-body .AcceptedSolutionsLeaderboardTaplet{
-			display:none;
+   #lia-body .AcceptedSolutionsLeaderboardTaplet{
+
+			display:none;
+
 		}
   </style>
   <script type="text/javascript">
@@ -7848,21 +7854,36 @@ LITHIUM.AngularSupport.init();LITHIUM.Globals.restoreGlobals(['define', '$', 'jQ
 LITHIUM.Sandbox.restore();
 LITHIUM.jQuery.fn.cssData.defaults = {"dataPrefix":"lia-js-data","pairDelimeter":"-","prefixDelimeter":"-"};
 LITHIUM.CommunityJsonObject.User.policies['forums.action.message-view.batch-messages.allow'] = false;
-;(function($) {
-if(LITHIUM.CommunityJsonObject.Page.name == "ViewProfilePage") {
-    let httpNode = jQuery('.url_http').next('a').text();
-    if(httpNode == ""){
-        jQuery('.url_http').next('a').text('Please add web page info.');
-    }
-    $('.fitbit_pencil').click(function(){
-        jQuery('.url_http').next('a').text('');
-    });
-    $('.field_update_link').click(function(){
-        jQuery('.url_http').next('a').text('');
-    });
-   
-}
-})(LITHIUM.jQuery);
+;(function($) {
+
+if(LITHIUM.CommunityJsonObject.Page.name == "ViewProfilePage") {
+
+    let httpNode = jQuery('.url_http').next('a').text();
+
+    if(httpNode == ""){
+
+        jQuery('.url_http').next('a').text('Please add web page info.');
+
+    }
+
+    $('.fitbit_pencil').click(function(){
+
+        jQuery('.url_http').next('a').text('');
+
+    });
+
+    $('.field_update_link').click(function(){
+
+        jQuery('.url_http').next('a').text('');
+
+    });
+
+   
+
+}
+
+})(LITHIUM.jQuery);
+
 
 (function($){
   /*$('html').click(function() {    
@@ -8129,37 +8150,68 @@ LITHIUM.Dialog({
   "dialogKey" : "dialogKey"
 });
 LITHIUM.ValueSurveyLauncher({"detectPopUpCSS":".lia-dialog-open","dialogLinkSelector":"#valueSurveyLauncher","launchDelay":63518});
-;(function($) {
-	$(document).ready(function() {
-                
-        //remove knowledgebase from search
-        if($(".search-granularity").length)
-        jQuery(".search-granularity option[value='tkb|tkb']").wrap( "<span>" );
-
-		var html = $(".lia-component-users-actions-my-subscriptions").clone();
-		$(".lia-component-users-actions-my-subscriptions").remove();
-		$(".lia-component-users-action-my-profile-settings").before(html);
-
-		var loop = $('#columns tr th').length;
-		if(loop){
-			var ht = "<tr class='custom-lia-list-row-float'><td colspan='"+loop+"' style='width:100%'></td></tr>";
-			$(".thread-list .lia-list-row-float").last().after(ht);
-		}
-
-		
-
-		//Assign 2 language classes to body, one from the user profile setting, and one from which language board the user is on.
-		 var currentLanguage = 'en';
-		 var currentLanguageBoard = 'en';
-		 $("body").addClass(currentLanguage).addClass("board-"+currentLanguageBoard);
-		
-		$(document).on("click mousedown touchstart",'.lia-component-common-widget-slide-out-user-menu', function(){	 
-		  $('.lia-component-users-action-my-profile-settings').attr('href','/t5/user/myprofilepage/tab/user-preferences');	 
-		});
-		
-	});
-
-})(LITHIUM.jQuery);
+;(function($) {
+
+	$(document).ready(function() {
+
+                
+
+        //remove knowledgebase from search
+
+        if($(".search-granularity").length)
+
+        jQuery(".search-granularity option[value='tkb|tkb']").wrap( "<span>" );
+
+
+
+		var html = $(".lia-component-users-actions-my-subscriptions").clone();
+
+		$(".lia-component-users-actions-my-subscriptions").remove();
+
+		$(".lia-component-users-action-my-profile-settings").before(html);
+
+
+
+		var loop = $('#columns tr th').length;
+
+		if(loop){
+
+			var ht = "<tr class='custom-lia-list-row-float'><td colspan='"+loop+"' style='width:100%'></td></tr>";
+
+			$(".thread-list .lia-list-row-float").last().after(ht);
+
+		}
+
+
+
+		
+
+
+
+		//Assign 2 language classes to body, one from the user profile setting, and one from which language board the user is on.
+
+		 var currentLanguage = 'en';
+
+		 var currentLanguageBoard = 'en';
+
+		 $("body").addClass(currentLanguage).addClass("board-"+currentLanguageBoard);
+
+		
+
+		$(document).on("click mousedown touchstart",'.lia-component-common-widget-slide-out-user-menu', function(){	 
+
+		  $('.lia-component-users-action-my-profile-settings').attr('href','/t5/user/myprofilepage/tab/user-preferences');	 
+
+		});
+
+		
+
+	});
+
+
+
+})(LITHIUM.jQuery);
+
 
 LITHIUM.PartialRenderProxy({"limuirsComponentRenderedEvent":"LITHIUM:limuirsComponentRendered","relayEvent":"LITHIUM:partialRenderProxyRelay","listenerEvent":"LITHIUM:partialRenderProxy"});
 LITHIUM.AjaxSupport({"ajaxOptionsParam":{"event":"LITHIUM:partialRenderProxyRelay","parameters":{"javascript.ignore_combine_and_minify":"true"}},"tokenId":"ajax","elementSelector":document,"action":"partialRenderProxyRelay","feedbackSelector":false,"url":"https://community.fitbit.com/t5/forums/forumpage.liabase.basebody.partialrenderproxy:partialrenderproxyrelay?t:ac=board-id/sleep/page/2","ajaxErrorEventName":"LITHIUM:ajaxError","token":""});
